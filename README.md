@@ -6,6 +6,7 @@ Codigo para ESP32 para leitura do sensor de Solo HD-3002 utilizando ModBus
 
 <img src="https://github.com/eltonssilva/Sensor_Solo/blob/main/tabela_ModBus.jpeg" width="800px;" alt="Elton Silva"/>
 
+
 ## Contributors
 
 <table>
