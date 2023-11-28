@@ -2,20 +2,9 @@
 
 Codigo para ESP32 para leitura do sensor de Solo HD-3002 utilizando ModBus
 
-## How to run
+## Tabela ModBus
 
-1. Install project dependencies:
-```bash
-$ npm install
-```
-2. Run it:
-```bash
-$ npm run dev
-```
-3. Build:
-```bash
-$ npm run build
-```
+<img src="https://github.com/eltonssilva/Sensor_Solo/blob/main/tabela_ModBus.jpeg" width="100px;" alt="Elton Silva"/>
 
 ## Contributors
 
